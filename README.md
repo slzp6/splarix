@@ -8,6 +8,8 @@ A collection of web-based systems and experiments for exploring 3D Gaussian Spla
 
 Splarix is a web-based system for appearance-based similarity search across a database of 3DGS objects generated from a large collection of computer-generated images. It computes feature descriptors for each object and uses them to retrieve objects with similar visual appearances.
 
+![splarix](images/scr_splarix.png)
+
 - Attention-Based Set Aggregation for Retrieving 3D Gaussian Splatting Models Using Appearance, Motofumi T. Suzuki, 2026 The 10th International Conference on Graphics and Signal Processing, pp. 29–37, June 2026. ISBN: 979-8-3195-4596-1.
 - Denoising Autoencoder-Based Augmentation and Canonicalization for 3D Gaussian Splatting Object Retrieval, Motofumi Suzuki, 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026), October 2026.
 
@@ -17,6 +19,8 @@ Splarix is a web-based system for appearance-based similarity search across a da
 
 Splarix Branch is an alternative version of Splarix with nine times as many 3DGS objects and a different mix of object shapes. It is used to evaluate both appearance-based and shape-based similarity search.
 
+![splarix_branch](images/scr_splarix_branch.png)
+![splarix_branch](images/scr_splarix_branch_a.png)
 ---
 
 ## [Splarix SG](https://compsci.world.coocan.jp/splarix_sg/)
@@ -37,6 +41,8 @@ This viewer supports similarity search across a dataset of 3DGS objects created 
 
 Only a small number of objects are available because generating the dataset requires substantial processing time and disk space.
 
+![3dgs_mnist](images/scr_3dgs_mnist_viewer.png)
+![3dgs_mnist](images/scr_3dgs_mnist_viewer_a.png)
 ---
 
 ## [Superellipsoid 3DGS Explorer](https://compsci.world.coocan.jp/se3dgs/)
